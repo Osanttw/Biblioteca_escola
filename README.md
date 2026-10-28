@@ -2,7 +2,7 @@
 
 Atividade III – SEDUC DEST2 · Planejar, criar e testar um banco de dados.
 
-**Autor:** Eduardo D. Lima
+**Autor:** Eduardo Dos Santos Lima
 
 ## 1. Domínio
 Gerenciamento de uma **biblioteca escolar**: alunos, turmas, livros, exemplares e empréstimos.
